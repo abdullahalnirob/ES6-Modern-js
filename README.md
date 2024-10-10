@@ -83,7 +83,7 @@ let users = [
     }
 ]
 
-let result = users.map((user)=>{
+    users.map((user)=>{
     console.log(`His name is` ${user.name})
 })
 
